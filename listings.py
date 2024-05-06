@@ -3,9 +3,10 @@ from google_req import *
 import re
 import requests
 import pandas as pd
+import os 
 
 listings=[]
-api_key = "AIzaSyCxE9aVlXtzuT5u5tCQACEcfu41yFkmPvs"
+api_key = os.getenv('GOOGLE_API_KEY')
 def events(user1,user2):
     
     
