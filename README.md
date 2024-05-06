@@ -2,7 +2,7 @@
 
 # HERA: Where Connections Blossom and Memories Flourish
 
-This was built as a part of an entrepreneurship Course at the University of San Francisco by @spacemanspiff06[], @Codewithtej[https://github.com/Codewithtej], @varshamoturi[https://github.com/varshamoturi]
+This was built as a part of an entrepreneurship Course at the University of San Francisco by @spacemanspiff06[https://github.com/spacemanspiff06], @Codewithtej[https://github.com/Codewithtej], @varshamoturi[https://github.com/varshamoturi]
 
 ## Overview
 
